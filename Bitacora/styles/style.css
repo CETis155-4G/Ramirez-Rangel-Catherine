@@ -1,0 +1,13 @@
+html {
+    font-size: 22px;/*px quierre decir 'pixeles':el tamaño de la fuente base es ahora de 10 pixeles de altura*/
+    font-family:"Times New Roman", sans-serif;/* este debe ser el resto del resultado que obtuviste en google fonts*/
+}
+h1 {
+    font-size:35px;
+    text-align: center;
+}
+p, li {
+font-size: 20px;
+line-height: 2;
+letter-spacing: 1px;
+}
